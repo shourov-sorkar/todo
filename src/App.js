@@ -1,4 +1,3 @@
-import './App.css';
 import TodoInput from './Components/TodoInput';
 import TodoItem from './Components/TodoItem';
 import TodoList from './Components/TodoList';
